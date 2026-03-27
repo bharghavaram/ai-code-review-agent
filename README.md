@@ -1,3 +1,5 @@
+> **📅 Project Period:** Jul 2024 – Aug 2024 &nbsp;|&nbsp; **Status:** Completed &nbsp;|&nbsp; **Author:** [Bharghava Ram Vemuri](https://github.com/bharghavaram)
+
 # AI Code Review Agent
 
 > Automated code review using GPT-4o + AST static analysis for production codebases
