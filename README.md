@@ -16,7 +16,11 @@
 
 ---
 
-## 🎯 Problem Statement
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bharghavaram/ai-code-review-agent/main/docs/images/demo.svg" alt="ai-code-review-agent demo" width="820"/>
+</div>
+
+--- 🎯 Problem Statement
 
 Manual code review is a bottleneck — senior engineers spend 30–40% of their time reviewing PRs, catching only 60–70% of bugs before production. Security vulnerabilities are frequently missed. Test coverage is inconsistently enforced. This agent combines GPT-4o LLM reasoning with Python AST static analysis, Radon cyclomatic complexity metrics, and Bandit security scanning — producing automated, comprehensive code reviews with actionable fixes and auto-generated test cases.
 
